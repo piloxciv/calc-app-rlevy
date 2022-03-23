@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "calc-app-rlevy",
+    "react-calculator": "calc-app-rlevy"
+  },
+  "targets": {}
+}
